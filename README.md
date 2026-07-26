@@ -34,13 +34,22 @@ Birthday
 
 ## Screens
 
-- **Contacts**. This is the main list view with search and A–Z index.
+## Screens
 
-- **Favorites**. These are your favorite contacts.
-
-- **Info**. This is where you can find app information.
-
-- **Add/Edit Contact**. This is the form for creating or editing a contact.
+<table>
+  <tr>
+    <td><img src="pictures/Contacs.jpeg" width="200"/></td>
+    <td><img src="pictures/Favorites.jpeg" width="200"/></td>
+    <td><img src="pictures/NewContact.jpeg" width="200"/></td>
+    <td><img src="pictures/info.jpeg" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center">Contacts</td>
+    <td align="center">Favorites</td>
+    <td align="center">Add/Edit</td>
+    <td align="center">Info</td>
+  </tr>
+</table>
 
 ## Tech Stack
 
