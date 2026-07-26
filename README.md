@@ -38,7 +38,7 @@ Birthday
 
 <table>
   <tr>
-    <td><img src="pictures/Contacs.jpeg" width="200"/></td>
+    <td><img src="pictures/Contacts.jpeg" width="200"/></td>
     <td><img src="pictures/Favorites.jpeg" width="200"/></td>
     <td><img src="pictures/NewContact.jpeg" width="200"/></td>
     <td><img src="pictures/info.jpeg" width="200"/></td>
