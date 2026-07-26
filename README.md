@@ -34,8 +34,6 @@ Birthday
 
 ## Screens
 
-## Screens
-
 <table>
   <tr>
     <td><img src="pictures/Contacts.jpeg" width="200"/></td>
