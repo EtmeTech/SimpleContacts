@@ -12,19 +12,7 @@ SimpleContacts is an app that does not collect your data. It was built with Jetp
 
 - **Favorites (Highlights)**. You can mark contacts as favorites. Then you can view them in a tab.
 
-- **Add / Edit contacts**. You can create contacts or edit existing ones. You can add a lot of details like:
-
-Name
-
-Phone numbers
-
-Email
-
-Full address
-
-Company
-
-Birthday
+- **Add / Edit contacts**. You can create contacts or edit existing ones. You can add a lot of details like: Name, Phone numbers, Email, Full address, Company, Birthday
 
 - **Quick actions**. You can. Email a contact directly from an expandable contact card.
 
